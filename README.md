@@ -7,4 +7,4 @@
 * Create diagram with maximum and minimum temperatures from 2005 - 2014 by day of the year
 * Mark record breaking lows & highs in 2015
 
-![alt text](https://github.com/janS95/analyzing_weather_data/blob/main/images/weather.png =250x250 "Weather")
+![](https://github.com/janS95/analyzing_weather_data/blob/main/images/weather.png =250x250)
