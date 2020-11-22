@@ -9,4 +9,4 @@
 
 <img src="https://github.com/janS95/analyzing_weather_data/blob/main/images/weather.png" width="400">
 
-![](https://github.com/janS95/analyzing_weather_data/blob/main/images/weather.png =250x250)
+![](https://github.com/janS95/analyzing_weather_data/blob/main/images/weather.png)
